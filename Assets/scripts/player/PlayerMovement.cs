@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour {
-    public Rigibody rb;
+    public Rigidbody rb;
 
     // Update is called once per frame
     void Update()
